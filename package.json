@@ -1,0 +1,24 @@
+{
+  "name": "aisa_web",
+  "version": "1.0.0",
+  "description": "zero test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SnorlaxZeroTsai/aisa_web.git"
+  },
+  "author": "zero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SnorlaxZeroTsai/aisa_web/issues"
+  },
+  "homepage": "https://github.com/SnorlaxZeroTsai/aisa_web#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.20"
+  }
+}
